@@ -1,0 +1,16 @@
+#coffee {
+   
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 30px;
+    padding: 20px;
+    
+}
+
+* {
+    background-color: rgb(244, 223, 198);
+}
+h1 {
+ text-align: center;
+ color: rgb(68, 42, 10);
+}
